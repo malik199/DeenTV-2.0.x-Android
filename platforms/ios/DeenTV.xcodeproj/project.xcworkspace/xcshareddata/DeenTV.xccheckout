@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>88A2ABAB-BE07-4C4E-898A-A26FF8DA0FF4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DeenTV</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>46B7B080999E06D5AF632892F6B0DBDCEAE48C04</key>
+		<string>https://github.com/malik199/DeenTV-2.0.1.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>platforms/ios/DeenTV.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>46B7B080999E06D5AF632892F6B0DBDCEAE48C04</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/malik199/DeenTV-2.0.1.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>46B7B080999E06D5AF632892F6B0DBDCEAE48C04</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>46B7B080999E06D5AF632892F6B0DBDCEAE48C04</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DeenTV</string>
+		</dict>
+	</array>
+</dict>
+</plist>
